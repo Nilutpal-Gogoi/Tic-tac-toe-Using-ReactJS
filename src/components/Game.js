@@ -1,5 +1,4 @@
 import React, { Component } from 'react'
-import { unstable_concurrentAct } from 'react-dom/test-utils';
 import Board from "./Board";
 
 export default class Game extends Component {
