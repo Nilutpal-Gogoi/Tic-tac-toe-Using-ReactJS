@@ -1,0 +1,6 @@
+GAME RULES:
+1. Draw the board. First, we have to draw the board, which is made up of a 3x3 grid of squares.
+2. Have the first player go first. The first player goes with "X".
+3. Have the second player go second. The first player goes with "0".
+4. Keep alternating moves until one of the players has drawn a row of three symbols or until
+no one can win.
