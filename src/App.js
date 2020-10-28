@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+import React from 'react';
 import Game from "./components/Game"
 import "./App.css"
 
